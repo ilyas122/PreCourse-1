@@ -32,6 +32,7 @@ public class StackAsLinkedList {
   
     public int peek() 
     { 
+        i=10;
         //Write code to just return the topmost element without removing it.
     } 
   
